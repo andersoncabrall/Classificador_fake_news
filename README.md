@@ -1,7 +1,5 @@
 # Classificação de Desinformação Digital (Fake News) 📰🕵️‍♂️
 
-Este repositório contém a solução desenvolvida para o Desafio Técnico Individual da Liga Acadêmica de Inteligência Artificial (Ligia) - Trilha de Processamento de Linguagem Natural (PLN).
-
 ## 📂 Organização do Repositório
 
 * `notebooks/`: Contém os Jupyter Notebooks com a separação lógica da solução (Análise Exploratória, Preparação dos Dados, Treinamento do Modelo e Inferência).
